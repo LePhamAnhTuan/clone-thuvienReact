@@ -14,6 +14,5 @@ npm i @reduxjs/toolkit react-redux
 npm i redux
 npm i sass-loader 
 npm i antd
-npm axios
 npm i -D tailwindcss
 npx tailwindcss init
